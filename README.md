@@ -13,8 +13,9 @@
 <hr>
 
 <div align="center">
-  <h3>Technologies used:</h3>
+  <h3>Technologies</h3>
   
+  <h4>SW Development</h4>
   <img src="https://img.shields.io/badge/lua/u-0d6370?style=for-the-badge&logo=lua">
   <img src="https://img.shields.io/badge/C/++-215f61?style=for-the-badge&logo=cplusplus">
 
@@ -31,14 +32,29 @@
   <img src="https://img.shields.io/badge/roblox_studio-black?style=for-the-badge&logo=robloxstudio">
   <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity">
   <img src="https://img.shields.io/badge/Blender-523e07?style=for-the-badge&logo=blender">
+  <img src="https://img.shields.io/badge/Arduino-083d45?style=for-the-badge&logo=arduino">
+  
+  <h4>SW Foundations</h4>
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs">
+  <img src="https://img.shields.io/badge/Docker-003563?style=for-the-badge&logo=docker">
+  
+  
+  <h4>OS</h4>
+  <img src="https://img.shields.io/badge/Windows-073a52?style=for-the-badge&logo=windows">
+  <img src="https://img.shields.io/badge/Pop__OS!-083d45?style=for-the-badge&logo=popos">
+  <img src="https://img.shields.io/badge/Ubuntu-523307?style=for-the-badge&logo=ubuntu">
+  <img src="https://img.shields.io/badge/Fedora-003563?style=for-the-badge&logo=fedora">
   <!--
   <br>
   <img src="https://img.shields.io/badge/Pop__OS!-005663?style=for-the-badge&logo=popos">
   -->
+  <br>
+  <br>
   <p> ... and much more!
     
   <hr>
   
+  <h3>👁‍🗨</h3>
   <h3> Check out some of my premier developments and projects below: </h3>
 </div>
   
