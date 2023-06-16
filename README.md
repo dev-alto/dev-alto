@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-   devalto is self-taught programmer, one with experiences across a plethora of platforms and environments.
+   devalto is a self-taught programmer, one with experiences across a plethora of platforms and environments.
 </div>
 
 <hr>
