@@ -33,7 +33,7 @@
   <br>
   <img src="https://img.shields.io/badge/Pop__OS!-005663?style=for-the-badge&logo=popos">
   -->
-  
+  <p> ... and much more!
   <h3> Check out some of my premier developments and projects below: </h3>
   
 </div>
