@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p> Test paragraph in html format </p>
+
 <!--
 **dev-alto/dev-alto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
