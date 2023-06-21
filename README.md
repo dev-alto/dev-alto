@@ -15,7 +15,7 @@
 <div align="center">
   <h3>Technologies</h3>
   
-  <h4>SW Development</h4>
+  <h4>General Development</h4>
   <img src="https://img.shields.io/badge/lua/u-0d6370?style=for-the-badge&logo=lua">
   <img src="https://img.shields.io/badge/C/++-215f61?style=for-the-badge&logo=cplusplus">
 
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Blender-523e07?style=for-the-badge&logo=blender">
   <img src="https://img.shields.io/badge/Arduino-083d45?style=for-the-badge&logo=arduino">
   
-  <h4>SW Foundations</h4>
+  <h4>Backend Frameworks</h4>
   <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs">
   <img src="https://img.shields.io/badge/Docker-003563?style=for-the-badge&logo=docker">
   
