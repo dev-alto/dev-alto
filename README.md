@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" height=24>
   <br>
-  <img src="https://img.shields.io/badge/welcome._this_is_devalto-black?style=for-the-badge&logo=wheniwork">
+  <img src="https://img.shields.io/badge/welcome_to_devalto's_github_profile-black?style=for-the-badge&logo=wheniwork">
 </div>
 
 <br>
 
 <div align="center">
-   devalto is a self-taught programmer, one with experience across a diverse plethora of software platforms and environments.
+   devalto is a self-taught programmer, one with experience across a plethora of software platforms and technologies
 </div>
 
 <hr>
