@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" height=24>
   <br>
-  <img src="https://img.shields.io/badge/welcome._my_name_is_devalto-black?style=for-the-badge&logo=wheniwork">
+  <img src="https://img.shields.io/badge/welcome._this_is_devalto-black?style=for-the-badge&logo=wheniwork">
 </div>
 
 <br>
 
 <div align="center">
-   devalto is a self-taught programmer, one with experiences across a plethora of platforms and environments.
+   devalto is a self-taught programmer, one with experience across a diverse plethora of software platforms and environments.
 </div>
 
 <hr>
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Blender-523e07?style=for-the-badge&logo=blender">
   <img src="https://img.shields.io/badge/Arduino-083d45?style=for-the-badge&logo=arduino">
   
-  <h4>Backend Frameworks</h4>
+  <h4>Structural Frameworks</h4>
   <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs">
   <img src="https://img.shields.io/badge/Docker-003563?style=for-the-badge&logo=docker">
   
