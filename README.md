@@ -7,8 +7,8 @@
 <br>
 
 <div align="center">
-   <p>devalto is a self-taught programmer who has experience across a plethora of software platforms and technologies.</p>
-   <p><strong>https://the-devalto-experiments.000webhostapp.com</strong></p>
+   <p><b>devalto</b> is a self-taught programmer who has experience across a plethora of software platforms and technologies.</p>
+   <p><b>https://the-devalto-experiments.000webhostapp.com</b></p>
 </div>
 
 <hr>
@@ -31,27 +31,33 @@
   -->
   <br>
   <img src="https://img.shields.io/badge/roblox_studio-black?style=for-the-badge&logo=robloxstudio">
-  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity">
-  <img src="https://img.shields.io/badge/Blender-523e07?style=for-the-badge&logo=blender">
-  <img src="https://img.shields.io/badge/Arduino-083d45?style=for-the-badge&logo=arduino">
+  <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity">
+  <img src="https://img.shields.io/badge/blender-523e07?style=for-the-badge&logo=blender">
+  <img src="https://img.shields.io/badge/arduino-083d45?style=for-the-badge&logo=arduino">
   
   <h4>Structural Frameworks</h4>
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs">
-  <img src="https://img.shields.io/badge/Docker-003563?style=for-the-badge&logo=docker">
+  <img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs">
+  <img src="https://img.shields.io/badge/docker-003563?style=for-the-badge&logo=docker">
   
   
   <h4>OS</h4>
-  <img src="https://img.shields.io/badge/Windows-073a52?style=for-the-badge&logo=windows">
+  <img src="https://img.shields.io/badge/windows-073a52?style=for-the-badge&logo=windows">
   <img src="https://img.shields.io/badge/Pop__OS!-083d45?style=for-the-badge&logo=popos">
-  <img src="https://img.shields.io/badge/Ubuntu-523307?style=for-the-badge&logo=ubuntu">
-  <img src="https://img.shields.io/badge/Fedora-003563?style=for-the-badge&logo=fedora">
+  <img src="https://img.shields.io/badge/ubuntu-523307?style=for-the-badge&logo=ubuntu">
+  <img src="https://img.shields.io/badge/fedora-003563?style=for-the-badge&logo=fedora">
+  <img src="https://img.shields.io/badge/virtualbox-003563?style=for-the-badge&logo=virtualbox">
   <!--
   <br>
   <img src="https://img.shields.io/badge/Pop__OS!-005663?style=for-the-badge&logo=popos">
   -->
+
+  <h4>Self-Hosted Server Services</h4>
+  <img src="https://img.shields.io/badge/home_assistant-073a52?style=for-the-badge&logo=homeassistant">
+  <img src="https://img.shields.io/badge/esphome-black?style=for-the-badge&logo=esphome">
+    
   <br>
   <br>
-  <p> ... and much more!
+  <p> ... plus more specialized technologies.
     
   <hr>
   
