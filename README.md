@@ -54,7 +54,7 @@
   <h4>Self-Hosted Server Services</h4>
   <img src="https://img.shields.io/badge/home_assistant-073a52?style=for-the-badge&logo=homeassistant">
   <img src="https://img.shields.io/badge/esphome-black?style=for-the-badge&logo=esphome">
-    
+  <img src="https://img.shields.io/badge/pihole-9b2612?style=for-the-badge&logo=pihole">
   <br>
   <br>
   <p> ... plus more specialized technologies.
