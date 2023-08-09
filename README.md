@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/blender-523e07?style=for-the-badge&logo=blender">
   <img src="https://img.shields.io/badge/arduino-083d45?style=for-the-badge&logo=arduino">
   
-  <h4>Structural Frameworks</h4>
+  <h4>Structures & Frameworks</h4>
   <img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs">
   <img src="https://img.shields.io/badge/docker-003563?style=for-the-badge&logo=docker">
   
