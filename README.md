@@ -16,7 +16,7 @@
 <div align="center">
   <h3>Technologies</h3>
   
-  <h4>General Development</h4>
+  <h4>General Development Languages & Platforms</h4>
   <img src="https://img.shields.io/badge/lua/u-0d6370?style=for-the-badge&logo=lua">
   <img src="https://img.shields.io/badge/C/++-215f61?style=for-the-badge&logo=cplusplus">
 
@@ -35,12 +35,11 @@
   <img src="https://img.shields.io/badge/blender-523e07?style=for-the-badge&logo=blender">
   <img src="https://img.shields.io/badge/arduino-083d45?style=for-the-badge&logo=arduino">
   
-  <h4>Structures & Frameworks</h4>
-  <img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs">
+  <h4>Structures, Frameworks, Systems</h4>
+  <img src="https://img.shields.io/badge/node.js-023020?style=for-the-badge&logo=nodedotjs">
   <img src="https://img.shields.io/badge/docker-003563?style=for-the-badge&logo=docker">
   
-  
-  <h4>OS</h4>
+  <h4>OS (Including in VMs)</h4>
   <img src="https://img.shields.io/badge/windows-073a52?style=for-the-badge&logo=windows">
   <img src="https://img.shields.io/badge/Pop__OS!-083d45?style=for-the-badge&logo=popos">
   <img src="https://img.shields.io/badge/ubuntu-523307?style=for-the-badge&logo=ubuntu">
@@ -51,13 +50,14 @@
   <img src="https://img.shields.io/badge/Pop__OS!-005663?style=for-the-badge&logo=popos">
   -->
 
-  <h4>Self-Hosted Server Services</h4>
-  <img src="https://img.shields.io/badge/home_assistant-073a52?style=for-the-badge&logo=homeassistant">
-  <img src="https://img.shields.io/badge/esphome-black?style=for-the-badge&logo=esphome">
+  <h4>Self-Hosted Services I'm Using (Server IT)</h4>
+  <img src="https://img.shields.io/badge/home_assistant_(hass)-073a52?style=for-the-badge&logo=homeassistant">
+  <img src="https://img.shields.io/badge/esphome-212121?style=for-the-badge&logo=esphome">
   <img src="https://img.shields.io/badge/pihole-9b2612?style=for-the-badge&logo=pihole">
+  <img src="https://img.shields.io/badge/jellyfin-000b25?style=for-the-badge&logo=jellyfin">
   <br>
   <br>
-  <p> ... plus more specialized technologies.
+  <p> ... plus more
     
   <hr>
   
