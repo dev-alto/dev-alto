@@ -2,21 +2,19 @@
   <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" height=24>
   <br>
   <img src="https://img.shields.io/badge/welcome_to_devalto's_github_profile-black?style=for-the-badge&logo=wheniwork">
+  
+  <a href="mailto: lancearnel143@gmail.com"><img src="https://img.shields.io/badge/email-49180D?style=for-the-badge&logo=gmail"></a>
+  <a href="https://discordapp.com/users/168406210687533056"><img src="https://img.shields.io/badge/discord-222941?style=for-the-badge&logo=discord"></a>
 </div>
 
-<br>
 
 <div align="center">
-  <p><b>devalto</b> is a self-taught programmer who has experience across a plethora of software platforms and technologies.</p>
+  <p><b>devalto</b> is a self-taught programmer who has experience across a plethora of software platforms and technologies.</p>  
   <p><b>https://the-devalto-experiments.000webhostapp.com</b></p>
 </div>
 
-<hr>
-
 <div align="center">
-  <h3>Contact</h3>
-  <a href="mailto: lancearnel143@gmail.com"><img src="https://img.shields.io/badge/email-49180D?style=for-the-badge&logo=gmail"></a>
-  <a href="https://discordapp.com/users/168406210687533056"><img src="https://img.shields.io/badge/discord-222941?style=for-the-badge&logo=discord"></a>
+
 </div>
 
 <hr>
@@ -64,11 +62,7 @@
   <img src="https://img.shields.io/badge/pihole-9b2612?style=for-the-badge&logo=pihole">
   <img src="https://img.shields.io/badge/jellyfin-000b25?style=for-the-badge&logo=jellyfin">
   <br>
-  <br>
-  <p> ... plus more
-    
   <hr>
-  
   <h3>👁‍🗨</h3>
   <h3>https://github.com/Lucent-Studios</h3>
   <h3> Check out some of my premier developments and projects below: </h3>
