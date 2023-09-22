@@ -7,8 +7,6 @@
   <a href="https://discordapp.com/users/168406210687533056"><img src="https://img.shields.io/badge/discord-222941?style=for-the-badge&logo=discord"></a>
 </div>
 
-a
-
 <div align="center">
   <p><b>devalto</b> is a self-taught programmer who has experience across a plethora of software platforms and technologies.</p>  
   <p><b>https://the-devalto-experiments.000webhostapp.com</b></p>
