@@ -4,16 +4,15 @@
   <img src="https://img.shields.io/badge/welcome_to_devalto's_github_profile-black?style=for-the-badge&logo=wheniwork">
   
   <a href="mailto: lancearnel143@gmail.com"><img src="https://img.shields.io/badge/email-49180D?style=for-the-badge&logo=gmail"></a>
-  <a href="https://discordapp.com/users/168406210687533056"><img src="https://img.shields.io/badge/discord-222941?style=for-the-badge&logo=discord"></a>
+  <a href="https://discordapp.com/users/168406210687533056"><img src="https://img.shields.io/badge/discord-373B71?style=for-the-badge&logo=discord"></a>
+  <a href="https://www.linkedin.com/in/lance-ruiz-9a6436237"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin"></a>
+  
 </div>
 
 <div align="center">
-  <p><b>devalto</b> is a self-taught programmer who has experience across a plethora of software platforms and technologies.</p>  
-  <p><b>https://the-devalto-experiments.000webhostapp.com</b></p>
-  
-  ⬇️ soon to be
-  (as mentioned [here](https://github.com/dev-alto/web-development-experiments))
-  <p><b>https://devalto.dev</b></p>
+  <p><b>devalto</b> is a self-taught programmer with broad experience across a plethora of software platforms and technologies.</p>  
+
+  <p><b>https://www.devalto.dev</b></p>
   
 </div>
 
@@ -47,15 +46,17 @@
   
   <h4>Structures, Frameworks, Systems</h4>
   <img src="https://img.shields.io/badge/node.js-023020?style=for-the-badge&logo=nodedotjs">
+  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs">
+  <img src="https://img.shields.io/badge/react-073a52?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/docker-003563?style=for-the-badge&logo=docker">
+  <img src="https://img.shields.io/badge/virtualbox-003563?style=for-the-badge&logo=virtualbox">
   
   <h4>OS (Including in VMs)</h4>
   <img src="https://img.shields.io/badge/windows-073a52?style=for-the-badge&logo=windows">
   <img src="https://img.shields.io/badge/Pop__OS!-083d45?style=for-the-badge&logo=popos">
   <img src="https://img.shields.io/badge/ubuntu-523307?style=for-the-badge&logo=ubuntu">
   <img src="https://img.shields.io/badge/fedora-003563?style=for-the-badge&logo=fedora">
-  <img src="https://img.shields.io/badge/virtualbox-003563?style=for-the-badge&logo=virtualbox">
-  <!--
+  <img src="https://img.shields.io/badge/kali_linux-202040?style=for-the-badge&logo=kalilinux">  <!--
   <br>
   <img src="https://img.shields.io/badge/Pop__OS!-005663?style=for-the-badge&logo=popos">
   -->
