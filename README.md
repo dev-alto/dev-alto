@@ -5,7 +5,7 @@
   
   <a href="mailto: lancearnel143@gmail.com"><img src="https://img.shields.io/badge/email-49180D?style=for-the-badge&logo=gmail"></a>
   <a href="https://discordapp.com/users/168406210687533056"><img src="https://img.shields.io/badge/discord-373B71?style=for-the-badge&logo=discord"></a>
-  <a href="https://www.linkedin.com/in/lance-ruiz-9a6436237"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/lance-ruiz"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin"></a>
   
 </div>
 
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/docker-003563?style=for-the-badge&logo=docker">
   <img src="https://img.shields.io/badge/virtualbox-003563?style=for-the-badge&logo=virtualbox">
   
-  <h4>OS (Including in VMs)</h4>
+  <h4>Operating Systems (Including in VMs)</h4>
   <img src="https://img.shields.io/badge/windows-073a52?style=for-the-badge&logo=windows">
   <img src="https://img.shields.io/badge/Pop__OS!-083d45?style=for-the-badge&logo=popos">
   <img src="https://img.shields.io/badge/ubuntu-523307?style=for-the-badge&logo=ubuntu">
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Pop__OS!-005663?style=for-the-badge&logo=popos">
   -->
 
-  <h4>Self-Hosted Services I'm Using (Server IT)</h4>
+  <h4>Self-Hosted Services I'm Using (Server InfoTech)</h4>
   <img src="https://img.shields.io/badge/home_assistant_(hass)-073a52?style=for-the-badge&logo=homeassistant">
   <img src="https://img.shields.io/badge/esphome-212121?style=for-the-badge&logo=esphome">
   <img src="https://img.shields.io/badge/pihole-9b2612?style=for-the-badge&logo=pihole">
