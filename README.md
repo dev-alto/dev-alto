@@ -12,7 +12,8 @@
 <div align="center">
   <p><b>devalto</b> is a self-taught programmer bolstering broad experience across a plethora of software stacks, platforms and technologies.</p>  
 
-  <p><b>https://www.devalto.dev</b></p>
+  My sites, currently TBD (once my home server and DNS resolver is up):
+  <p><b>https://www.devalto.dev</b> || <b>https://www.lanceruiz.com</b></p>
   
 </div>
 
