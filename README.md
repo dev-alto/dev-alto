@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <p><b>devalto</b> is a self-taught programmer with broad experience across a plethora of software platforms and technologies.</p>  
+  <p><b>devalto</b> is a self-taught programmer bolstering broad experience across a plethora of software stacks, platforms and technologies.</p>  
 
   <p><b>https://www.devalto.dev</b></p>
   
