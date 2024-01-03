@@ -12,8 +12,8 @@
 <div align="center">
   <p><b>devalto</b> is a self-taught programmer bolstering broad experience across a plethora of software stacks, platforms and technologies.</p>  
 
-  My sites, currently TBD (once my home server and DNS resolver is up):
-  <p><b>https://www.devalto.dev</b> || <b>https://www.lanceruiz.com</b></p>
+  My personal sites (with the latter one TBD): 
+  <p><b>https://www.lanceruiz.com</b> || <b>https://www.devalto.dev</b></p>
   
 </div>
 
@@ -69,8 +69,11 @@
   <img src="https://img.shields.io/badge/jellyfin-000b25?style=for-the-badge&logo=jellyfin">
   <br>
   <hr>
-  <h3>👁‍🗨</h3>
+  Currently apart of:
   <h3>https://github.com/Lucent-Studios</h3>
+  <h3>https://github.com/orgs/Skyline-College-Computer-Science-Club</h3>
+
+  <h3>👁‍🗨</h3>
   <h3> Check out some of my premier developments and projects below: </h3>
 </div>
   
