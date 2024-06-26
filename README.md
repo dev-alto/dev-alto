@@ -12,8 +12,10 @@
 <div align="center">
   <p><b>devalto</b> is a self-taught programmer bolstering broad experience across a plethora of software stacks, platforms and technologies.</p>  
 
-  My personal sites (with the latter one TBD): 
-  <p><b>https://www.lanceruiz.com</b> || <b>https://www.devalto.dev</b></p>
+  Visit my Online Hub at
+  🔗 <b><a href="https://lanceruiz.com"> lanceruiz.com</a></b> 🌎
+  <!-- My personal sites(with the latter one TBD): -->
+  <!-- <p><b>https://www.lanceruiz.com</b> || <b>https://www.devalto.dev</b></p> -->
   
 </div>
 
