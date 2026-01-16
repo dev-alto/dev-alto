@@ -73,7 +73,7 @@
   <hr>
   Currently apart of:
   <h3>https://github.com/Lucent-Studios</h3>
-  <h3>https://github.com/orgs/Skyline-College-Computer-Science-Club</h3>
+  <h3>https://github.com/Google-Developer-Groups-Skyline-College</h3>
 
   <h3>👁‍🗨</h3>
   <h3> Check out some of my premier developments and projects below: </h3>
